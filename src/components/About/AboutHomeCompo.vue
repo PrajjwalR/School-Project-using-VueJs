@@ -95,7 +95,7 @@
 .enroll-container {
   position: fixed;
   right: 10%;
-  top: 50%;
+  top: 80%;
   padding: 20px 30px;
   color: white;
   display: flex;
